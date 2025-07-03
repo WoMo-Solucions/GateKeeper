@@ -1,0 +1,95 @@
+===== Page 1 =====
+
+🔒 INFORME FUNCIONAL DEL SISTEMA GATEKEEPER
+
+Documento Consolidado - Versión 1.0
+
+🎯 1 Objetivo General
+
+El Sistema GateKeeper es una solución integral diseñada para gestionar
+el acceso a múltiples proyectos de software bajo diferentes modalidades de
+autorización, garantizando:
+
+✓ Activación remota sin intervención manual.
+✓ Gestión automatizada de períodos (prueba/pago).
+✓ Restricción de acceso post-expiración.
+✓ Notificaciones proactivas de renovación.
+✓ Adaptabilidad a distintos modelos de negocio (individual/grupal/empresarial).
+
+👥 2 Roles y Funcionalidades
+
+🛠️ Administrador
+
+-  Generación de credenciales únicas por proyecto y cliente.
+
+-  Configuración flexible:
+   o Duración de prueba (7/15/30 días).
+   o Límite de usuarios/dispositivos.
+   o Tipo de vinculación (IP, hardware o usuario).
+
+-  Panel de control centralizado:
+   o Estado de credenciales (activas/vencidas).
+   o Reportes de uso y expiraciones.
+   o Mapa térmico de accesos por región.
+
+👤 Cliente Final
+
+-  Acceso simplificado:
+   o Sin claves complejas (vinculación automática).
+   o Autenticación transparente.
+
+-  Notificaciones inteligentes:
+
+===== Page 2 =====
+
+`o` Alertas pre-expiración (15/7/3 días).
+
+`o` Multiplataforma (email, app, SMS).
+
+-  **Migración automática de prueba a pago sin reinicios.**
+
+📦 3 Módulos Principales
+
+| Módulo    | Funcionalidad    |
+|---|---|
+| Activación    | Vinculación automática a MAC/IP/usuario. Verificación en dos pasos (servidor + local).    |
+| Verificación    | Heartbeat cada 24h (online). Checksum local (offline, válido por 7 días).    |
+| Control de Acceso    | Límite de usuarios concurrentes. Jerarquías (admin/estándar).    |
+| Notificaciones    | Recordatorios con ofertas. Alertas al 80% de capacidad.    |
+| Reportes    | Histórico de accesos, intentos fallidos y renovaciones (exportable a PDF/Excel).    |
+
+🔑 4 Modelos de Acceso Autorizado
+
+1. **Prueba temporal (7/15/30 días).**
+
+2. **Por usuario concurrente (empresas/gimnasios).**
+
+3. **Por dispositivo físico (clientes individuales).**
+
+4. **Enterprise (IP-based para redes corporativas).**
+
+5. **SaaS (token-based para aplicaciones web).**
+
+6. **Perpetuo (con verificación anual).**
+
+🔄 5 Flujos Críticos
+
+**Activación Inicial**
+
+1. Cliente instala el aplicativo.
+
+===== Page 3 =====
+
+2. Sistema registra dispositivo/usuario.
+
+3. Verifica credencial contra base de datos central.
+
+4. Descarga certificado digital para validaciones futuras.
+
+**Renovación Automática**
+
+-  **15 días antes: Notificaciones diarias + botón 1-click.**
+
+-  **Post-expiración: 72 horas de gracia → Bloqueo total.**
+
+-  **Reactivación: Automática al confirmar pago.**

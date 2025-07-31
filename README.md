@@ -7,9 +7,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
 ## 📋 Descripción del Sistema
-**GateKeeper** es la solución tecnológica desarrollada por **WoMo Studio** para gestión centralizada de accesos a sistemas corporativos, con capacidades avanzadas de control y monitoreo en tiempo real.
+**GateKeeper** es la solución tecnológica desarrollada por **WoMo Soluciónˢ** para gestión centralizada de accesos a sistemas corporativos, con capacidades avanzadas de control y monitoreo en tiempo real.
 
-## 🛠 Stack Tecnológico Principal
+## 🛠 Stack Tecnológico
 **Backend Avanzado:**
 - Node.js + Express (microservicios)
 - PostgreSQL + Redis (caché)
@@ -81,12 +81,12 @@ Sistema de análisis estático de código diseñado para evaluación de calidad 
 **Julián Alberto Ramírez**  
 💻 CTO & Desarrollador Full Stack   
 ⚙️ Automatización | 🧩 Soluciones software |💡 Innovador Tecnológico | 🔍 Apasionado por IA  
-🏢 **WoMo Studio** - Soluciones Tecnológicas Avanzadas  
+🏢 **WoMo Soluciónˢ** - Soluciones Tecnológicas Avanzadas  
 
 📧 [Correo corporativo](mailto:womostd@gmail.com)  
 📧 [Correo alternativo](mailto:juliram81@hotmail.com)  
 📱 [WhatsApp](https://wa.me/573180401930)  
-🔗 [LinkedIn Corporativo](https://www.linkedin.com/company/womo-studio/)  
+🔗 [LinkedIn Corporativo](https://www.linkedin.com/company/womo-solucions/)  
 
 💡 **Notas Técnicas:**  
 Este sistema demuestra capacidades avanzadas en:   

@@ -1,6 +1,5 @@
 
 # 🔐 GateKeeper - Sistema Integral de Gestión de Accesos
-
 ![Estado](https://img.shields.io/badge/🚀_En_Producción-green) 
 ![Licencia](https://img.shields.io/badge/Licencia-🔒_Privada-red)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)

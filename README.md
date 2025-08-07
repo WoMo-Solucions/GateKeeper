@@ -7,7 +7,12 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
 ## 📋 Descripción del Sistema
-**GateKeeper** es la solución tecnológica desarrollada por **WoMo Soluciónˢ** para gestión centralizada de accesos a sistemas corporativos, con capacidades avanzadas de control y monitoreo en tiempo real.
+Es una solución tecnológica avanzada para la gestión centralizada y segura de accesos en entornos corporativos. Funciona como un núcleo de control que integra:
+
+- Administración unificada de usuarios y roles
+- Monitoreo y auditoría en tiempo real
+- Sistema de autenticación robusto y escalable
+- Módulo de configuración y políticas de seguridad.
 
 ## 🛠 Stack Tecnológico
 **Backend Avanzado:**
@@ -52,12 +57,12 @@
 
 ## 🔍 Características Clave
 Sistema de análisis estático de código diseñado para evaluación de calidad y arquitectura de software:
-- ✔️ Activación remota automática
-- ✔️ Gestión de períodos de acceso
-- ✔️ Notificaciones inteligentes
-- ✔️ Límites de usuarios/dispositivos
-- ✔️ Reportes ejecutivos (PDF/Excel)
-- ✔️ Modo offline (7 días de operación)
+- Activación remota automática
+- Gestión de períodos de acceso
+- Notificaciones inteligentes
+- Límites de usuarios/dispositivos
+- Reportes ejecutivos (PDF/Excel)
+- Modo offline (7 días de operación)
 
 ## 🛡️ Seguridad Avanzada
 - Validación de entorno (anti-debugging)
@@ -97,5 +102,6 @@ Este sistema demuestra capacidades avanzadas en:
 "Donde la seguridad se encuentra con la innovación"
 
 📅 **Control de Versiones**  
-📅 **Versión Actual:** 1.1.0  
-🔄 **Última Actualización:** Julio 2025
+
+![Versión](https://img.shields.io/badge/Versión-1.1.0-blue) ![Última Actualización](https://img.shields.io/badge/Actualizado-Jul_2025-green)
+

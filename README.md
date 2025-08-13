@@ -1,5 +1,6 @@
 
-# 🔐 GateKeeper - Sistema Integral de Gestión de Accesos
+# 🔐 GateKeeper 
+## Sistema Integral de Gestión de Accesos
 ![Estado](https://img.shields.io/badge/🚀_En_Producción-green) 
 ![Licencia](https://img.shields.io/badge/Licencia-🔒_Privada-red)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
@@ -83,11 +84,12 @@ Sistema de análisis estático de código diseñado para evaluación de calidad 
 
 ## 📬 Contacto Corporativo
 **Julián Alberto Ramírez**  
-💻 CTO & Desarrollador Full Stack   
+💻 Socio Fundador & Visionario Tecnológico
 ⚙️ Automatización | 🧩 Soluciones software |💡 Innovador Tecnológico | 🔍 Apasionado por IA  
 <img width="222" height="29" alt="Image" src="https://github.com/user-attachments/assets/24519130-f605-4762-a4f2-374c450f2b64" />  
 🏢 **Soluciones Tecnológicas Avanzadas**  
-<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/09c23a95-e483-452e-880f-e7c90c222014" />
+<img width="150" height="150" alt="Image" src="https://github.com/user-attachments/assets/09c23a95-e483-452e-880f-e7c90c222014" />  
+
 
 💡 **Notas Técnicas:**  
 Este sistema demuestra capacidades avanzadas en:   

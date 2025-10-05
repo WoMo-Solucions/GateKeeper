@@ -1,4 +1,3 @@
-
 # 🔐 GateKeeper 
 ## Sistema Integral de Gestión de Accesos
 ![Estado](https://img.shields.io/badge/🚀_En_Producción-green) 
